@@ -1150,5 +1150,35 @@
 		"DE": "Löschen",
 		"EN": "Delete",
 		"PT-BR": "Deletar"
+	},
+	"friend_code_update" : {
+		"NL": "Friend code is geupdate.",
+		"DE": "Der Freundescode wurde aktualisiert.",
+		"EN": "Friend code has been updated.",
+		"PT-BR": "TRANSLATE"
+	},
+	"want_update" : {
+		"NL": "Gevraagde Pokemon is geupdate.",
+		"DE": "Angefordertes Pokémon wurde aktualisiert.",
+		"EN": "Requested Pokemon has been updated.",
+		"PT-BR": "TRANSLATE"
+	},
+	"have_update" : {
+		"NL": "Aangeboden Pokemon is geupdate.",
+		"DE": "Das angebotene Pokémon wurde aktualisiert.",
+		"EN": "Offered Pokemon has been updated.",
+		"PT-BR": "TRANSLATE"
+	},  
+	"friend_code_invalid" : {
+   		"NL": "Dit is geen geldige Friend Code, probeer het opnieuw.",
+  		"DE": "Dies ist kein gültiger Trainercode, bitte versuche es erneut",
+   		"EN": "That's not a valid friend code, please try again",
+  	  	"PT-BR": "TRANSLATE"
+        },
+	"fail" : {
+		"NL": "Mislukt.",
+		"DE": "Gescheitert.",
+		"EN": "Failed.",
+		"PT-BR": "TRANSLATE"
 	}
 }
